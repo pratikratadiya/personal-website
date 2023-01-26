@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &pratik_ratadiya
 facebook:
   username               :
   app_id                 :
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Pratik Ratadiya"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "ML Researcher, AI for Social Good, Product Development, Open for full-time roles!"
-  location         : "Location"
+  location         : "San Diego, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=gFLQDMAAAAAJ&hl=en"
+  email            :  "prratadiya@gmail.com"  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "pratikratadiya"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        :  "pratikratadiya"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :  "pratik-ratadiya"
+  orcid            : "https://orcid.org/0000-0001-5999-6904"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "pratik_ratadiya"
   vine             :
   weibo            :
   xing             :
