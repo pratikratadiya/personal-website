@@ -10,3 +10,7 @@ body {
   {
   max-width:42em;margin:15 auto;
   }
+
+.sitenav {
+  text-decoration: none;
+}
